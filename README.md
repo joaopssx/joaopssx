@@ -1,4 +1,5 @@
-## Hi there 👋
+## yo wsp, im João Pedro from Brazil
+![cat-meme](https://github.com/user-attachments/assets/05b84b6a-b21e-4d63-984b-d80f27f022ac)
 
 <!--
 **joaopssx/joaopssx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
