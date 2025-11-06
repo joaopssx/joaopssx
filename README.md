@@ -1,17 +1,45 @@
-## yo wsp, im João Pedro from Brazil
-![cat-meme](https://github.com/user-attachments/assets/05b84b6a-b21e-4d63-984b-d80f27f022ac)
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/joaopssx">João Pedro de Sena Santana</a></h1>
+<p align="center">
+  <strong>Fullstack Developer | Game Developer | UI/UX Enthusiast</strong>
+</p>
 
-<!--
-**joaopssx/joaopssx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 About me
+> "Building stuff that *feels alive* — from pixels to pipelines."
 
-Here are some ideas to get you started:
+I'm **João**, a fullstack + gamedev dev who loves mixing code and creativity.  
+I work with **C#, Python, JavaScript/TypeScript, Unity, Blender, and Rust** — and sometimes I make my own tools like *BigBrain* for Blender or *GPTauri*, a minimalist desktop app with style.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 I’m currently studying **Game Design & Dev** at IESB.  
+⚙️ I love **terminal-style UIs, clean motion,** and **smooth UX**.  
+💭 My projects often balance **aesthetic design + technical brains**.  
+🌙 Dark theme enjoyer (always).
+
+### 🧠 Tech Stack
+
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,kotlin,rust,html,css" />
+</p>
+
+#### 🎮 Game & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aseprite/aseprite-original.svg" width="48" height="48"/>
+</p>
+
+#### ⚙️ Tools & Other Stuff
+<p>
+  <img src="https://skillicons.dev/icons?i=tauri,vscode,git,github,linux" />
+</p>
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://github.com/joaopssx"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:joaopssx@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="48" height="48"/></a>
+  <a href="https://www.linkedin.com/in/joapssx"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+<p align="center">
+  <code>( joaopssx | github | crafted with ☕ and insomnia )</code>
+</p>
+
