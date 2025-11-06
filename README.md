@@ -4,10 +4,9 @@
 </p>
 
 ### 🧩 About me
-> "Building stuff that *feels alive* — from pixels to pipelines."
 
-I'm **João**, a fullstack + gamedev dev who loves mixing code and creativity.  
-I work with **C#, Python, JavaScript/TypeScript, Unity, Blender, and Rust** — and sometimes I make my own tools like *BigBrain* for Blender or *GPTauri*, a minimalist desktop app with style.
+I'm **João**, a fullstack + gamedev dev.  
+I work with **C#, Python, JavaScript/TypeScript, C, and Rust** — and sometimes I make my own tools too.
 
 🎮 I’m currently studying **Game Design & Dev** at IESB.  
 ⚙️ I love **terminal-style UIs, clean motion,** and **smooth UX**.  
