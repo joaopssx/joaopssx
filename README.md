@@ -22,7 +22,6 @@ I work with **C#, Python, JavaScript/TypeScript, Java, Kotlin, C, and Rust** —
 #### 🎮 Game & Creative Tools
 <p>
   <img src="https://skillicons.dev/icons?i=unity,blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aseprite/aseprite-original.svg" width="48" height="48"/>
 </p>
 
 #### ⚙️ Tools & Other Stuff
