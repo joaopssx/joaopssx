@@ -6,7 +6,7 @@
 ### 🧩 About me
 
 I'm **João**, a fullstack + gamedev dev.  
-I work with **C#, Python, JavaScript/TypeScript, C, and Rust** — and sometimes I make my own tools too.
+I work with **C#, Python, JavaScript/TypeScript, Java, Kotlin, C, and Rust** — and sometimes I make my own tools too.
 
 ⚙️ I love **terminal-style UIs, clean motion,** and **smooth UX**.  
 💭 My projects often balance **aesthetic design + technical brains**.  
