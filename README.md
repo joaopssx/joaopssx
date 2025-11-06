@@ -29,7 +29,7 @@ I work with **C#, Python, JavaScript/TypeScript, Unity, Blender, and Rust** — 
 
 #### ⚙️ Tools & Other Stuff
 <p>
-  <img src="https://skillicons.dev/icons?i=tauri,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=tauri,vscode,git,github" />
 </p>
 
 ### 🌐 Connect with me
