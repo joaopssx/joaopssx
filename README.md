@@ -15,7 +15,7 @@ I make my own tools too.
 
 #### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,rust,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,rust,go" />
 </p>
 
 #### 🎮 Game & Creative Tools
