@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Almost a Developer🚧</strong><br>
-  Building and breaking things :p.
+  Building and breaking stuff :p.
 </p>
 
 <p align="center">
