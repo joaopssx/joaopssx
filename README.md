@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cat-work-in-progress.gif" width="250">
+  <img src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/cat-work-in-progress.gif](https://tenor.com/pt-BR/view/cat-work-in-progress-progress-gif-6698056592000242882)" width="250">
 </p>
 
 ---
