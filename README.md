@@ -15,7 +15,7 @@
 
 ### 🧩 About Me
 
-I'm **João** — pronounced *"zhoh-OW"* in English (but you can call me **JP**).
+I'm **João**, i know it's hard to pronounce sometimes, so you can call me **JP**).
 
 I work mainly with **Python, TypeScript, Rust, and C#**,  
 and sometimes with **Java, C, and Go**.
