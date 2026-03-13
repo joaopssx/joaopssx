@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Almost a Developer🚧</strong><br>
-  Building and breaking stuff :p.
+  Building and breaking stuff :p
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🧩 About Me
 
-I'm **João**, i know it's hard to pronounce sometimes, so you can call me **JP**).
+I'm **João**, i know it's hard to pronounce sometimes, so you can call me **JP**.
 
 I work mainly with **Python, TypeScript, Rust, and C#**,  
 and sometimes with **Java, C, and Go**.
